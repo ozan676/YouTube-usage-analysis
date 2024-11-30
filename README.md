@@ -16,7 +16,7 @@ Watch History: A record of all the videos I have watched on YouTube.
 Search History: A log of all the search queries I have entered on YouTube.
 Subscribed Channels: A list of all the channels I am subscribed to.
 Playlists: Details of all my created and saved playlists.
-The data is provided in JSON format, covering my activity from [start date] to [end date]. To prepare the data for analysis, I plan to perform the following preprocessing steps:
+The data is provided in JSON format. To prepare the data for analysis, I plan to perform the following preprocessing steps:
 ### Data Processing
 Data Cleaning: Remove any duplicate entries and irrelevant data points.
 Data Transformation: Convert JSON files to CSV format for easier manipulation using data analysis tools.
