@@ -23,7 +23,10 @@ This widespread usage led me to reflect on my own interaction with YouTube. I be
 - What topics do I engage with the most?
 - How many hours do I spend actively watching YouTube each day?
 - Do I tend to use YouTube more in the mornings or evenings?
-
+- Do I sleep less when I watch more videos on youtube?
+- Do I feel less motivated when I listen Youtube music?
+- Do my eating habits effect the time I watched videos on Youtube?
+  
 These questions motivated me to analyze my YouTube usage data to seek answers and gain a deeper understanding of my viewing habits. Furthermore, I aim to find relations between my YouTube usage and daily life activities.
 
 ## Data Set
@@ -63,7 +66,7 @@ For the analysis, I will use Python and its data analysis libraries like `pandas
 
 ### Methodology
 
-1. **Data Collection:** Export YouTube data via Google Takeout.
+1. **Data Collection:** Export YouTube data from Google Takeout.
 2. **Data Preprocessing:** Clean, transform, and integrate the data.
 3. **Exploratory Data Analysis (EDA):** Identify patterns and trends in the data.
 4. **Visualization:** Create charts and graphs to illustrate findings.
