@@ -1,9 +1,4 @@
-activities?
 
-can you please format this for github readme
-
-Thought için birkaç saniye
-Sure, I can help you format your document for a GitHub README. Below is a structured and well-formatted version of your content using Markdown syntax, suitable for GitHub. I've added a Table of Contents for easier navigation and enhanced some sections for clarity.
 
 YouTube Usage Analysis and Its Relation with Daily Life
 Author: Ozan Kaçmaz (32123)
