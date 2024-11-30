@@ -1,4 +1,4 @@
-# YouTube-usage-analysis
+# YouTube-usage-analysis-and-relation-with-daily-life
 Ozan Kaçmaz (32123)
 ### Motivation
   
@@ -8,7 +8,7 @@ This observation is supported by data from globalmediainsight.com, which reports
 
 This widespread usage led me to reflect on my own interaction with YouTube. I began to question how I utilize the platform: Do I watch more videos or listen to music? What topics do I engage with the most? How many hours do I spend actively watching YouTube each day? Do I tend to use YouTube more in the mornings or evenings? These questions motivated me to analyze my YouTube usage data to seek answers and gain a deeper understanding of my viewing habits. Furthermore I will try to find relations between my Youtube usage and daily life
 
-### Data
+### Data Source
 
 I downloaded my YouTube data from Google Takeout. The exported data includes the following components:
 
@@ -17,10 +17,11 @@ Search History: A log of all the search queries I have entered on YouTube.
 Subscribed Channels: A list of all the channels I am subscribed to.
 Playlists: Details of all my created and saved playlists.
 The data is provided in JSON format, covering my activity from [start date] to [end date]. To prepare the data for analysis, I plan to perform the following preprocessing steps:
-
+### Data Processing
 Data Cleaning: Remove any duplicate entries and irrelevant data points.
 Data Transformation: Convert JSON files to CSV format for easier manipulation using data analysis tools.
 Data Integration: Combine different data components to create a comprehensive dataset for analysis.
+### Data Analysis
 
 For the analysis, I will use Python and its data analysis libraries such as pandas and matplotlib to visualize my YouTube usage patterns. This data will help answer the following research questions:
 
