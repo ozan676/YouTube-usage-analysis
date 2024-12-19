@@ -75,3 +75,6 @@ For the analysis, I will use Python and its data analysis libraries like `pandas
 ## Conclusion
 
 Through this analysis, I aim to gain insights into my YouTube consumption habits and understand how they intersect with my daily routines. This project not only provides personal reflections but can also serve as a case study for understanding broader social media usage patterns.
+
+
+#update for data collecting and analysis
