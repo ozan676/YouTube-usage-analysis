@@ -63,7 +63,7 @@ For the analysis, I will use Python and its data analysis libraries like `pandas
   - `pandas` for data manipulation
   - `matplotlib` and `seaborn` for data visualization
   - `numpy` for numerical operations
-  - `NLTK` for text preprocessing
+  - `nltk`, `spacy` for text preprocessing
 
 ### Methodology
 
