@@ -62,7 +62,7 @@ For the analysis, I will use Python and its data analysis libraries like `pandas
   - `nltk`, `spacy` for text preprocessing
   - `ngrok` for local machine simulation
   - `regex`
-  - `skikearn`
+  - `skilearn`
 
 ### Methodology
 
