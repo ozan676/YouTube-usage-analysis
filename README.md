@@ -30,9 +30,7 @@ These questions motivated me to analyze my YouTube usage data to seek answers an
 I downloaded my YouTube data from [Google Takeout](https://takeout.google.com/). The exported data includes the following components:
 
 - **Watch History:** A record of all the videos I have watched on YouTube.
-- **Search History:** A log of all the search queries I have entered on YouTube.
-- **Subscribed Channels:** A list of all the channels I am subscribed to.
-- **Playlists:** Details of all my created and saved playlists.
+
 
 The data is provided in JSON format. To prepare the data for analysis, I plan to perform the following preprocessing steps:
 
