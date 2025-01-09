@@ -19,13 +19,9 @@ This observation is supported by data from [globalmediainsight.com](https://www.
 
 This widespread usage led me to reflect on my own interaction with YouTube. I began to question how I utilize the platform:
 
-- Do I watch more videos or listen to music?
+- How many videos do I watch in a day average?
 - What topics do I engage with the most?
 - How many hours do I spend actively watching YouTube each day?
-- Do I tend to use YouTube more in the mornings or evenings?
-- Do I sleep less when I watch more videos on youtube?
-- Do I feel less motivated when I listen Youtube music?
-- Do my eating habits effect the time I watched videos on Youtube?
   
 These questions motivated me to analyze my YouTube usage data to seek answers and gain a deeper understanding of my viewing habits. Furthermore, I aim to find relations between my YouTube usage and daily life activities.
 
@@ -64,6 +60,9 @@ For the analysis, I will use Python and its data analysis libraries like `pandas
   - `matplotlib` and `seaborn` for data visualization
   - `numpy` for numerical operations
   - `nltk`, `spacy` for text preprocessing
+  - `ngrok` for local machine simulation
+  - `regex`
+  - `skikearn`
 
 ### Methodology
 
@@ -72,6 +71,7 @@ For the analysis, I will use Python and its data analysis libraries like `pandas
 3. **Exploratory Data Analysis (EDA):** Identify patterns and trends in the data.
 4. **Visualization:** Create charts and graphs to illustrate findings.
 5. **Correlation Analysis:** Examine the relationship between YouTube usage and daily activities.
+6. **Youtube Recommendation App** I will build an recommendation system using my own dataset. It will recommend video based on the title.
 
 ## Conclusion
 
