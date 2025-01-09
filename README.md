@@ -63,6 +63,8 @@ For the analysis, I will use Python and its data analysis libraries like `pandas
   - `ngrok` for local machine simulation
   - `regex`
   - `skilearn`
+  - `youtube-dlp` for getting metadatas of videos
+  
 
 ### Methodology
 
