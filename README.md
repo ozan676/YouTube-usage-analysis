@@ -73,7 +73,8 @@ For the analysis, I will use Python and its data analysis libraries like `pandas
 3. **Exploratory Data Analysis (EDA):** Identify patterns and trends in the data.
 4. **Visualization:** Create charts and graphs to illustrate findings.
 5. **Correlation Analysis:** Examine the relationship between YouTube usage and daily activities.
-6. **Youtube Recommendation App** I will build an recommendation system using my own dataset. It will recommend video based on the title.
+6. **Building Machine Learning Models:** I will build various ML models and evaluate their performance in the classification task.
+7. **Youtube Recommendation App** I will build an recommendation system using my own dataset. It will recommend video based on the title.
 
 ## Conclusion
 
