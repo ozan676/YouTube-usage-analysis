@@ -22,6 +22,8 @@ This widespread usage led me to reflect on my own interaction with YouTube. I be
 - How many videos do I watch in a day average?
 - What topics do I engage with the most?
 - How many hours do I spend actively watching YouTube each day?
+- Can I build a machine learning model to classify categories of the videos.
+- Which supervised learning algorithm is best in terms of correctly classifying categories?
   
 These questions motivated me to analyze my YouTube usage data to seek answers and gain a deeper understanding of my viewing habits. Furthermore, I aim to find relations between my YouTube usage and daily life activities.
 
